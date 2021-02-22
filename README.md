@@ -1,8 +1,8 @@
-# Scorpion
+# Scorpion V2🌠
 
 
 
-v2🌠
+
 
 
 <p align="center">
