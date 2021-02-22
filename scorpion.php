@@ -747,7 +747,7 @@ askscan:
           {
             echo "\n\n" . $bold . $yellow . "-[ Scorpion Update Corner]-\n\n" . $cln;
             echo $bold . "[i] Fetching Stuffs .... \n" . $cln;
-            $latestversion = readcontents("https://raw.githubusercontent.com/Tuhinshubhra/RED_HAWK/master/version.txt");
+            $latestversion = readcontents("https://raw.githubusercontent.com/iraq-hacker/Scorpion/master/version.txt");
             echo $bold . $blue . "[C] Current Version: " . $rhversion . $cln;
             echo "\n" . $bold . $lblue . "[L] Latest Version:  " . $latestversion . $cln;
             if ($latestversion > $rhversion)
