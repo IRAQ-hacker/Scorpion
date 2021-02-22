@@ -29,7 +29,7 @@ else
   }
 thephuckinstart:
 echo "\n";
-userinput("Enter The Website You Want To Scan ");
+userinput("Enter Website for scaner :");
 $ip = trim(fgets(STDIN, 1024));
 if ($ip == "help")
   {
