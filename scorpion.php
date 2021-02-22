@@ -12,7 +12,7 @@ function update()
     }
     
 system("clear");
-scorpion_banner();
+Scorpion_banner();
 if (extension_loaded('curl') || extension_loaded('dom'))
   {
   }
