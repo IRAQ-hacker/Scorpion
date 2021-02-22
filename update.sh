@@ -33,7 +33,7 @@ echo " "
 echo -e "$grn                updating the Scorpion please wait$rset"
 sleep 2.0
 cd $HOME
-rm -rf scorpion
+rm -rf Scorpion
 git clone https://github.com/iraq-hacker/Scorpion
 clear
 echo " "
