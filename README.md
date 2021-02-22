@@ -115,7 +115,9 @@ Watch The Video  : [![30%](https://img.shields.io/badge/channel-telegram-yellow)
 alt="Video Thumbnail" border="10" /></a>
 
 # Suggestions And Feedbacks
-Want to contribute to Scorpion or point out something wrong? Just create a new issue here: https://github.com/iraq-hacker/Scorpion
+Want to contribute to Scorpion or point out something wrong? Just create a new issue here: 
+[![45%](https://img.shields.io/badge/good-notbad-yellow)](https://github.com/IRAQ-hacker/Scorpion)
+
 I'd love to hear from you.
 
 # Support and Donations
