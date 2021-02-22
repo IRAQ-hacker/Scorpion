@@ -110,15 +110,15 @@ scanlist:
 
     system("clear");
     echo $bold . $blue . "
-      +--------------------------------------------------------------+
-      +                  List Of Scans Or Actions                    +
-      +--------------------------------------------------------------+
+      +-------------------------R------------------------------------+
+      E                  The list Scans for Scorpion                 K
+      +--------------------------C-----------------------------------+
 
             $lblue Scanning Site : " . $fgreen . $ipsl . $ip . $blue . "
       \n\n";
-    echo $yellow . " [0]  Basic Recon$white (Site Title, IP Address, CMS, Cloudflare Detection, Robots.txt Scanner)$yellow \n [1]  Whois Lookup \n [2]  Geo-IP Lookup \n [3]  Grab Banners \n [4]  DNS Lookup \n [5]  Subnet Calculator \n [6]  NMAP Port Scan \n [7]  Subdomain Scanner \n [8]  Reverse IP Lookup & CMS Detection \n [9]  SQLi Scanner$white (Finds Links With Parameter And Scans For Error Based SQLi)$yellow \n [10] Bloggers View$white (Information That Bloggers Might Be Interested In)$yellow \n [11] WordPress Scan$white (Only If The Target Site Runs On WP)$yellow \n [12] Crawler \n [13] MX Lookup \n$magenta [A]  Scan For Everything - (The Old Lame Scanner) \n$blue [F]  Fix (Checks For Required Modules and Installs Missing Ones) \n$fgreen [U]  Check For Updates \n$white [B]  Scan Another Website (Back To Site Selection) \n$red [Q]  Quit! \n\n" . $cln;
+    echo $yellow . " [0]  Basic Recon$white (Site Title, IP Address, CMS, Cloudflare Detection, Robots.txt Scanner)$yellow \n [1]  Whois Lookup \n [2]  Geo-IP Lookup \n [3]  Grab Banners \n [4]  DNS Lookup \n [5]  Subnet Calculator \n [6]  NMAP Port Scan \n [7]  Subdomain Scanner \n [8]  Reverse IP Lookup & CMS Detection \n [9]  SQLi Scanner$red (Finds Links With Parameter And Scans For Error Based SQLi)$yellow \n [10] Bloggers View$red (Information That Bloggers Might Be Interested In)$yellow \n [11] WordPress Scan$red (Only If The Target Site Runs On WP)$yellow \n [12] Crawler \n [13] MX Lookup \n$blue [A]  Scan For Everything - (The Old Lame Scanner) \n$blue [F]  Fix (Checks For Required Modules and Installs Missing Ones) \n$fgreen [U]  Check For Updates \n$green [B]  Scan Another Website (Back To Site Selection) \n$red [Q]  Quit! \n\n" . $cln;
 askscan:
-    userinput("Choose Any Scan OR Action From The Above List");
+    userinput("Choose Any Scan From The Above List");
     $scan = trim(fgets(STDIN, 1024));
 
     if (!in_array($scan, array(
@@ -148,7 +148,7 @@ askscan:
         'u'
     ), true))
       {
-        echo $bold . $red . "\n[!] Invalid Input! Please Enter a Valid Option! \n\n" . $cln;
+        echo $bold . $red . "\n[!] Invalid! Please Enter a Valid Option! \n\n" . $cln;
         goto askscan;
       }
     else
@@ -159,7 +159,7 @@ askscan:
           }
         elseif ($scan == 'q' | $scan == 'Q')
           {
-            echo "\n\n\t Good Bye - Have a nice day :)\n\n";
+            echo "\n\n\t Good Bye - Have a nice day Dev Rashid karim :)\n\n";
             die();
           }
         elseif ($scan == 'b' || $scan == 'B')
