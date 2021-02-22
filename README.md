@@ -110,7 +110,7 @@ Watch The Video  : [![30%](https://img.shields.io/badge/channel-telegram-yellow)
 
 
 # Video Demonstration
-<a href="https://www.youtube.com/راشدكريم target="_blank"><img src="" 
+<a href="https://t.me/iiwiw" target="_blank"><img src="https://user-images.githubusercontent.com/70316694/108711868-06038380-7527-11eb-90a1-d8632990ebd2.jpg" 
 alt="Video Thumbnail" border="10" /></a>
 
 # Suggestions And Feedbacks
@@ -118,7 +118,9 @@ Want to contribute to Scorpion or point out something wrong? Just create a new i
 I'd love to hear from you.
 
 # Support and Donations
-Found Scorpion cool? well you could buy me a cup of tea ;) [![30%](https://img.shields.io/badge/in-telegram-red)](https://t.me/iiwiw)
+
+Found Scorpion cool? well you could buy me a cup of tea ;) 
+[![30%](https://img.shields.io/badge/in-telegram-red)](https://t.me/iiwiw)
 
 
 # TODOs
