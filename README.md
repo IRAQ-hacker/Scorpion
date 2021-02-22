@@ -106,12 +106,12 @@ Scorpion's `CMS Detector` currently is able to detect the following CMSs (Conten
 
 **SOLUTION:** Use The `fix` Command OR Manually Install *php-curl* & *php-xml*
 
-Watch The Video  : [![30%](https://img.shields.io/badge/channel-telegram-yellow)](https://t.me/professional_school)
+Support with me : [![30%](https://img.shields.io/badge/channel-telegram-yellow)](https://t.me/iiwiw)
 
 
-# Video Demonstration 👇🏿👇🏿.
+# Video  👇🏿👇🏿.
 
-<a href="https://t.me/iiwiw" target="_blank"><img src="https://user-images.githubusercontent.com/70316694/108711868-06038380-7527-11eb-90a1-d8632990ebd2.jpg" 
+<a href="https://t.me/Professional_school/2205" target="_blank"><img src="https://user-images.githubusercontent.com/70316694/108711868-06038380-7527-11eb-90a1-d8632990ebd2.jpg" 
 alt="Video Thumbnail" border="10" /></a>
 
 # Suggestions And Feedbacks
