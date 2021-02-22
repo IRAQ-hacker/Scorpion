@@ -109,7 +109,8 @@ Scorpion's `CMS Detector` currently is able to detect the following CMSs (Conten
 Watch The Video  : [![30%](https://img.shields.io/badge/channel-telegram-yellow)](https://t.me/professional_school)
 
 
-# Video Demonstration
+# Video Demonstration 👇🏿👇🏿.
+
 <a href="https://t.me/iiwiw" target="_blank"><img src="https://user-images.githubusercontent.com/70316694/108711868-06038380-7527-11eb-90a1-d8632990ebd2.jpg" 
 alt="Video Thumbnail" border="10" /></a>
 
@@ -121,6 +122,13 @@ I'd love to hear from you.
 
 Found Scorpion cool? well you could buy me a cup of tea ;) 
 [![30%](https://img.shields.io/badge/in-telegram-red)](https://t.me/iiwiw)
+
+[![30%](https://img.shields.io/badge/account%20-%20telegram-blue)](https://t.me/iiwiw)
+
+[![30%](https://img.shields.io/badge/channel-telegram-yellow)](https://t.me/professional_school)
+
+[![30%](https://img.shields.io/badge/subscribe%20-%20inmyYouTube-red)](https://youtube.com/channel/راشدكريم)
+
 
 
 # TODOs
