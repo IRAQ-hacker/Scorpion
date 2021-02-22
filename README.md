@@ -116,6 +116,7 @@ alt="Video Thumbnail" border="10" /></a>
 
 # Suggestions And Feedbacks
 Want to contribute to Scorpion or point out something wrong? Just create a new issue here: 
+
 [![45%](https://img.shields.io/badge/just-here-yellow)](https://github.com/IRAQ-hacker/Scorpion)
 
 I'd love to hear from you.
